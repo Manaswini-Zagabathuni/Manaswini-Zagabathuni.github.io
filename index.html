@@ -971,7 +971,8 @@
 "></canvas>
 
 <style>
-  * { cursor: none !important; }
+  @media (hover: hover) and (pointer: fine) { * { cursor: none !important; } }
+  @media (hover: none), (prefers-reduced-motion: reduce) { #cursor-star, #sparkle-canvas { display: none; } }
 </style>
 
 <script>
