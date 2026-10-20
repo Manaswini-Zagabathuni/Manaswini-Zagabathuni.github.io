@@ -1,3 +1,3 @@
 # Manaswini-Zagabathuni.github.io
 
-this is my github portfolio 
+This is my github portfolio 
